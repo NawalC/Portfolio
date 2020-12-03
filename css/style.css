@@ -326,6 +326,7 @@ header {
 .service {
   max-width: 500px;
   margin: 0 auto;
+  line-height: 0.25cm;
 }
 
 @media (min-width: 800px) {
